@@ -3,5 +3,5 @@ age = input("enter age")
 gender = input("enter gender")
 
 print("name,age,gender of the person",name,age,gender)
-
+print("Programa ejecutándose")
 print("done")
